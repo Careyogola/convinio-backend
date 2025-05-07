@@ -1,0 +1,21 @@
+{
+  "name": "convinio",
+  "version": "1.0.0",
+  "description": "Convinio backend Api",
+  "type": "module",
+  "main": "server.js",
+  "scripts": {
+    "test": "test convinio",
+    "dev": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git remote add origin https://github.com/Careyogola/convinio-backend.git"
+  },
+  "author": "Carey Ogola",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.1.0",
+    "nodemon": "^3.1.10"
+  }
+}
